@@ -4,7 +4,7 @@ const bodyParser = require('body-parser')
 const Payment = require('./routes/payment')
 
 const app = express();
-const port = 5000;
+const port = process.env.PORT ||5000;
 
 //Bodyparser
 app.use(bodyParser.urlencoded({ extended: true }));
