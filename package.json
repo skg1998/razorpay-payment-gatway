@@ -1,0 +1,19 @@
+{
+  "name": "sky-to-fly",
+  "version": "1.0.0",
+  "description": "my sky-to-fly project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skg1998/razorpay-payment-gatway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skg1998/razorpay-payment-gatway/issues"
+  },
+  "homepage": "https://github.com/skg1998/razorpay-payment-gatway#readme"
+}
